@@ -5,7 +5,7 @@ This project aims to explore the Walmart Sales data to understand top performing
 
 -Where -The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. 
 
---What-This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. 
+-What-This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. 
 
 -Howmany-The data contains 17 columns and 1000 rows.
 
